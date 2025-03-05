@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034813202165",
+    "project_id": "peoplesync-c908a",
+    "storage_bucket": "peoplesync-c908a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034813202165:android:d0d9fa13085bf3594f2fbc",
+        "android_client_info": {
+          "package_name": "com.codeexpress.peoplesync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsAAmzn1gbnSCHZUzooW23NcrI2Nlh3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
